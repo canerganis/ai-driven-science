@@ -1,0 +1,19 @@
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+Using model under Academic Software License (ASL) license, see https://github.com/gabor1/ASL 
+ To use this model you accept the terms of the license.
+Using Materials Project MACE for MACECalculator with C:\Users\can02\.cache\mace/maceomat0mediummodel
+Using float64 for MACECalculator, which is slower but more accurate. Recommended for geometry optimization.
+Cu54Ni54 E_mix +24.3 meV/atom, vol check -0.0001
+Ni54Pd54 E_mix +36.1 meV/atom, vol check +0.0000
+Ni54Pt54 E_mix -51.3 meV/atom, vol check +0.0000
+Ag54Ni54 E_mix +230.7 meV/atom, vol check +0.0004
+Au54Ni54 E_mix +123.0 meV/atom, vol check +0.0005
+Ni54Rh54 E_mix +41.6 meV/atom, vol check -0.0000
+Ir54Ni54 E_mix +22.1 meV/atom, vol check +0.0008
+Co54Ni54 E_mix -7.3 meV/atom, vol check +0.0000
+Cu54Pd54 E_mix -89.6 meV/atom, vol check +0.0000
+Cu54Pt54 E_mix -113.3 meV/atom, vol check +0.0000
+Ag22Al22Au22Cu20Ir22 E_mix -123.6 meV/atom, vol check -0.0022
+Co22Cu22Ni20Pd22Rh22 E_mix +82.0 meV/atom, vol check +0.0003
+Al22Au22Cu20Ir22Pt22 E_mix -218.7 meV/atom, vol check -0.0005
+Ag22Au22Ni20Pd22Pt22 E_mix -2.3 meV/atom, vol check -0.0064

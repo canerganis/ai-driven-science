@@ -1,0 +1,56 @@
+C:\Users\can02\Projects\AI driven Science\.venv\Lib\site-packages\e3nn\o3\_wigner.py:10: UserWarning: Environment variable TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD detected, since the`weights_only` argument was not explicitly passed to `torch.load`, forcing weights_only=False.
+  _Jd, _W3j_flat, _W3j_indices = torch.load(os.path.join(os.path.dirname(__file__), 'constants.pt'))
+C:\Users\can02\Projects\AI driven Science\.venv\Lib\site-packages\mace\calculators\mace.py:274: UserWarning: Environment variable TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD detected, since the`weights_only` argument was not explicitly passed to `torch.load`, forcing weights_only=False.
+  torch.load(f=model_path, map_location=device)
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+Using model under Academic Software License (ASL) license, see https://github.com/gabor1/ASL 
+ To use this model you accept the terms of the license.
+Using Materials Project MACE for MACECalculator with C:\Users\can02\.cache\mace/maceomat0mediummodel
+Using float64 for MACECalculator, which is slower but more accurate. Recommended for geometry optimization.
+binary Ag Au
+binary Ag Co
+binary Ag Cu
+binary Ag Ir
+binary Ag Ni
+binary Ag Pd
+binary Ag Pt
+binary Ag Rh
+binary Au Co
+binary Au Cu
+binary Au Ir
+binary Au Ni
+binary Au Pd
+binary Au Pt
+binary Au Rh
+binary Co Cu
+binary Co Ir
+binary Co Ni
+binary Co Pd
+binary Co Pt
+binary Co Rh
+binary Cu Ir
+binary Cu Ni
+binary Cu Pd
+binary Cu Pt
+binary Cu Rh
+binary Ir Ni
+binary Ir Pd
+binary Ir Pt
+binary Ir Rh
+binary Ni Pd
+binary Ni Pt
+binary Ni Rh
+binary Pd Pt
+binary Pd Rh
+binary Pt Rh
+targets done
+K44: raw 15.44, pair at V_ij 3.29, rule 2.62 GPa, gain 0.20, p 2.3e-02, refit k 0.86 -> fail
+Kp: raw 14.97, pair at V_ij 4.77, rule 2.03 GPa, gain 0.57, p 2.5e-04, refit k 1.08 -> pass
+secondary: median dlnK/dlnV of binaries with |K| > 10 GPa: {'K44': (14, -2.340508727571272), 'Kp': (12, -3.159947091704939)}
+seen Co-free n 159, sigma 2.14, power 1.000, false pass 0.000
+registered e410c96a32
+cofree targets done
+cofree K44 (gated): pair at V_ij 4.68, rule 2.30 GPa, gain 0.51, p 2.5e-04, refit k 1.23 -> pass
+cofree Kp: pair at V_ij 6.70, rule 1.61 GPa, gain 0.76, p 2.5e-04, refit k 1.09 -> pass
+co K44: pair at V_ij 3.36, rule 2.99 GPa, gain 0.11, p 8.2e-02, refit k 0.70 -> fail
+co Kp: pair at V_ij 4.77, rule 2.06 GPa, gain 0.57, p 2.5e-04, refit k 1.13 -> pass

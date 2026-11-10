@@ -1,0 +1,5 @@
+Audit the paper draft paper/draft_v2.md before it goes to ChemRxiv. You did not write it. Find every place where the text says more than the ledger and data support.
+
+Sources: claims/claims.jsonl (every id cited), .orchestra/audits/*.md, .orchestra/LESSONS.md, STATUS.md, claims/literature.jsonl, scripts named by the cited preregs, data/*.csv. Check: each number against its ledger entry or a recomputation; whether exploratory (seen-data) numbers are labelled as such; whether the abstract overstates (novelty vs Marker 2017, Liu 2010, van de Walle 2008, Asta 1992); whether the K44 floor section hides the open binary-reference doubt; the audit table (sizes marked TODO: fill them if the ledger has them); citations that look invented or wrong. Do not edit files.
+
+Answer: numbered findings, each with location in the draft, what is wrong, evidence (ledger id or file:line) and the exact replacement text. Mark each BLOCKER, SHOULD-FIX or NIT. End with a one-line verdict: ready for ChemRxiv after fixes, or not.

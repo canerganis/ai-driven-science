@@ -1,0 +1,12 @@
+C:\Users\can02\Projects\AI driven Science\.venv\Lib\site-packages\e3nn\o3\_wigner.py:10: UserWarning: Environment variable TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD detected, since the`weights_only` argument was not explicitly passed to `torch.load`, forcing weights_only=False.
+  _Jd, _W3j_flat, _W3j_indices = torch.load(os.path.join(os.path.dirname(__file__), 'constants.pt'))
+C:\Users\can02\Projects\AI driven Science\.venv\Lib\site-packages\mace\calculators\mace.py:274: UserWarning: Environment variable TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD detected, since the`weights_only` argument was not explicitly passed to `torch.load`, forcing weights_only=False.
+  torch.load(f=model_path, map_location=device)
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+Using medium MPA-0 model as default MACE-MP model, to use previous (before 3.10) default model please specify 'medium' as model argument
+Using Materials Project MACE for MACECalculator with C:\Users\can02\.cache\mace/macempa0mediummodel
+Using float64 for MACECalculator, which is slower but more accurate. Recommended for geometry optimization.
+n 150 (Co 75), sigma 1.92, power 0.860, false pass 0.000
+registered 6bc0e190a8
+mpa co targets done
+Co-free: gain 0.45, p 5.0e-04, k 1.10 [0.85, 1.31]; Co: k 1.09; diff CI [-0.30, 0.33] -> FAIL

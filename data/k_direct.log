@@ -1,0 +1,45 @@
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+Using model under Academic Software License (ASL) license, see https://github.com/gabor1/ASL 
+ To use this model you accept the terms of the license.
+Using Materials Project MACE for MACECalculator with C:\Users\can02\.cache\mace/maceomat0mediummodel
+Using float64 for MACECalculator, which is slower but more accurate. Recommended for geometry optimization.
+Ag Au
+Ag Co
+Ag Cu
+Ag Ir
+Ag Ni
+Ag Pd
+Ag Pt
+Ag Rh
+Au Co
+Au Cu
+Au Ir
+Au Ni
+Au Pd
+Au Pt
+Au Rh
+Co Cu
+Co Ir
+Co Ni
+Co Pd
+Co Pt
+Co Rh
+Cu Ir
+Cu Ni
+Cu Pd
+Cu Pt
+Cu Rh
+Ir Ni
+Ir Pd
+Ir Pt
+Ir Rh
+Ni Pd
+Ni Pt
+Ni Rh
+Pd Pt
+Pd Rh
+Pt Rh
+linear (champion form)     k 0.809 [0.772, 0.846]  RMSE k=1 13.4  k fit 10.9  no transfer 35.0 meV  (n 269)
+exact at target V0         k 0.940 [0.902, 0.980]  RMSE k=1 10.3  k fit 10.1  no transfer 35.0 meV  (n 269)
+exact at Vegard(actual)    k 0.940 [0.902, 0.981]  RMSE k=1 10.2  k fit 10.0  no transfer 35.0 meV  (n 269)
+-> inconclusive

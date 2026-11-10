@@ -1,0 +1,11 @@
+C:\Users\can02\Projects\AI driven Science\.venv\Lib\site-packages\e3nn\o3\_wigner.py:10: UserWarning: Environment variable TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD detected, since the`weights_only` argument was not explicitly passed to `torch.load`, forcing weights_only=False.
+  _Jd, _W3j_flat, _W3j_indices = torch.load(os.path.join(os.path.dirname(__file__), 'constants.pt'))
+C:\Users\can02\Projects\AI driven Science\.venv\Lib\site-packages\mace\calculators\mace.py:274: UserWarning: Environment variable TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD detected, since the`weights_only` argument was not explicitly passed to `torch.load`, forcing weights_only=False.
+  torch.load(f=model_path, map_location=device)
+Traceback (most recent call last):
+  File "C:\Users\can02\Projects\AI driven Science\scripts\k_shear_transfer.py", line 128, in <module>
+    reg = ledger.register(f"Shear-curvature volume transfer: clamped mixing K44 and K' of random fcc alloys equal "
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\can02\Projects\AI driven Science\harness\ledger.py", line 54, in register
+    raise ValueError(f"underpowered or leaky test design, not registered: {power}")
+ValueError: underpowered or leaky test design, not registered: {'power': np.float64(0.45), 'false_pass': np.float64(0.0)}

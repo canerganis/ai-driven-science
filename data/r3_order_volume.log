@@ -1,0 +1,36 @@
+C:\Users\can02\Projects\AI driven Science\.venv\Lib\site-packages\e3nn\o3\_wigner.py:10: UserWarning: Environment variable TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD detected, since the`weights_only` argument was not explicitly passed to `torch.load`, forcing weights_only=False.
+  _Jd, _W3j_flat, _W3j_indices = torch.load(os.path.join(os.path.dirname(__file__), 'constants.pt'))
+C:\Users\can02\Projects\AI driven Science\.venv\Lib\site-packages\mace\calculators\mace.py:274: UserWarning: Environment variable TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD detected, since the`weights_only` argument was not explicitly passed to `torch.load`, forcing weights_only=False.
+  torch.load(f=model_path, map_location=device)
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+Using model under Academic Software License (ASL) license, see https://github.com/gabor1/ASL 
+ To use this model you accept the terms of the license.
+Using Materials Project MACE for MACECalculator with C:\Users\can02\.cache\mace/maceomat0mediummodel
+Using float64 for MACECalculator, which is slower but more accurate. Recommended for geometry optimization.
+Cu-Ni {'E_L10': 0.025, 'E_rand': np.float64(0.0142), 'E_ord': np.float64(0.0108), 'n_eff': np.float64(-9.3778), 'pred': np.float64(-0.0028), 'obs': np.float64(0.0007)}
+Ni-Pd {'E_L10': -0.1818, 'E_rand': np.float64(-0.1452), 'E_ord': np.float64(-0.0366), 'n_eff': np.float64(9.5796), 'pred': np.float64(-0.008), 'obs': np.float64(-0.0001)}
+Ni-Pt {'E_L10': -0.4016, 'E_rand': np.float64(-0.3188), 'E_ord': np.float64(-0.0828), 'n_eff': np.float64(13.4713), 'pred': np.float64(-0.0195), 'obs': np.float64(-0.002)}
+Ag-Ni {'E_L10': -0.0709, 'E_rand': np.float64(-0.0638), 'E_ord': np.float64(-0.0071), 'n_eff': np.float64(15.9791), 'pred': np.float64(-0.0031), 'obs': np.float64(-0.007)}
+Au-Ni {'E_L10': -0.3338, 'E_rand': np.float64(-0.2592), 'E_ord': np.float64(-0.0746), 'n_eff': np.float64(11.7497), 'pred': np.float64(-0.0196), 'obs': np.float64(-0.0067)}
+Ni-Rh {'E_L10': -0.0773, 'E_rand': np.float64(-0.0786), 'E_ord': np.float64(0.0013), 'n_eff': np.float64(18.4845), 'pred': np.float64(0.0004), 'obs': np.float64(0.0019)}
+Ir-Ni {'E_L10': -0.1628, 'E_rand': np.float64(-0.1909), 'E_ord': np.float64(0.0281), 'n_eff': np.float64(23.0973), 'pred': np.float64(0.0088), 'obs': np.float64(0.0008)}
+Co-Ni {'E_L10': 0.0091, 'E_rand': np.float64(-0.0063), 'E_ord': np.float64(0.0154), 'n_eff': np.float64(10.7656), 'pred': np.float64(0.0039), 'obs': np.float64(0.0018)}
+Ag-Cu {'E_L10': -0.0944, 'E_rand': np.float64(-0.0739), 'E_ord': np.float64(-0.0204), 'n_eff': np.float64(11.7034), 'pred': np.float64(-0.0078), 'obs': np.float64(-0.0016)}
+Cu-Rh {'E_L10': 0.0851, 'E_rand': np.float64(0.0173), 'E_ord': np.float64(0.0678), 'n_eff': np.float64(-61.2523), 'pred': np.float64(-0.0807), 'obs': np.float64(0.0025)}
+Cu-Ir {'E_L10': 0.1547, 'E_rand': np.float64(0.0283), 'E_ord': np.float64(0.1264), 'n_eff': np.float64(-102.3962), 'pred': np.float64(-0.1915), 'obs': np.float64(0.001)}
+Co-Cu {'E_L10': 0.1757, 'E_rand': np.float64(0.1216), 'E_ord': np.float64(0.054), 'n_eff': np.float64(1.4881), 'pred': np.float64(0.0022), 'obs': np.float64(-0.0019)}
+Ag-Pd {'E_L10': -0.0821, 'E_rand': np.float64(-0.0784), 'E_ord': np.float64(-0.0036), 'n_eff': np.float64(2.7941), 'pred': np.float64(-0.0003), 'obs': np.float64(0.0002)}
+Au-Pd {'E_L10': -0.1337, 'E_rand': np.float64(-0.1123), 'E_ord': np.float64(-0.0214), 'n_eff': np.float64(5.9154), 'pred': np.float64(-0.0027), 'obs': np.float64(-0.0007)}
+Pd-Rh {'E_L10': 0.0843, 'E_rand': np.float64(0.0478), 'E_ord': np.float64(0.0365), 'n_eff': np.float64(4.8415), 'pred': np.float64(0.003), 'obs': np.float64(0.0006)}
+Co-Pd {'E_L10': -0.1558, 'E_rand': np.float64(-0.136), 'E_ord': np.float64(-0.0198), 'n_eff': np.float64(8.9304), 'pred': np.float64(-0.004), 'obs': np.float64(0.0005)}
+Ag-Pt {'E_L10': 0.0041, 'E_rand': np.float64(-0.0142), 'E_ord': np.float64(0.0183), 'n_eff': np.float64(-13.2688), 'pred': np.float64(-0.0047), 'obs': np.float64(-0.0032)}
+Au-Pt {'E_L10': 0.0101, 'E_rand': np.float64(0.0021), 'E_ord': np.float64(0.008), 'n_eff': np.float64(64.0034), 'pred': np.float64(0.0085), 'obs': np.float64(-0.0012)}
+Pt-Rh {'E_L10': -0.066, 'E_rand': np.float64(-0.0565), 'E_ord': np.float64(-0.0096), 'n_eff': np.float64(8.5681), 'pred': np.float64(-0.0011), 'obs': np.float64(-0.0011)}
+Ir-Pt {'E_L10': 0.0707, 'E_rand': np.float64(0.0289), 'E_ord': np.float64(0.0419), 'n_eff': np.float64(-5.2625), 'pred': np.float64(-0.0025), 'obs': np.float64(0.0005)}
+Co-Pt {'E_L10': -0.4144, 'E_rand': np.float64(-0.3272), 'E_ord': np.float64(-0.0872), 'n_eff': np.float64(12.7564), 'pred': np.float64(-0.0193), 'obs': np.float64(-0.0028)}
+Ag-Au {'E_L10': -0.0605, 'E_rand': np.float64(-0.0461), 'E_ord': np.float64(-0.0144), 'n_eff': np.float64(2.1637), 'pred': np.float64(-0.0008), 'obs': np.float64(-0.0019)}
+Au-Rh {'E_L10': 0.0587, 'E_rand': np.float64(0.0343), 'E_ord': np.float64(0.0244), 'n_eff': np.float64(7.9682), 'pred': np.float64(0.0033), 'obs': np.float64(-0.0031)}
+Ir-Rh {'E_L10': -0.0323, 'E_rand': np.float64(-0.0323), 'E_ord': np.float64(-0.0), 'n_eff': np.float64(10.4678), 'pred': np.float64(-0.0), 'obs': np.float64(-0.0005)}
+Co-Rh {'E_L10': -0.0815, 'E_rand': np.float64(-0.0636), 'E_ord': np.float64(-0.0179), 'n_eff': np.float64(21.7671), 'pred': np.float64(-0.0068), 'obs': np.float64(0.0025)}
+Co-Ir {'E_L10': -0.203, 'E_rand': np.float64(-0.1774), 'E_ord': np.float64(-0.0257), 'n_eff': np.float64(26.0389), 'pred': np.float64(-0.0091), 'obs': np.float64(-0.0022)}
+n=14 r=-0.334 slope=-0.003 -> FALSIFIED

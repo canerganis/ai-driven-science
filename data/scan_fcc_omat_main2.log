@@ -1,0 +1,11 @@
+156 to go
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+Using model under Academic Software License (ASL) license, see https://github.com/gabor1/ASL 
+ To use this model you accept the terms of the license.
+Using Materials Project MACE for MACECalculator with C:\Users\can02\.cache\mace/maceomat0mediummodel
+Using float64 for MACECalculator, which is slower but more accurate. Recommended for geometry optimization.
+Au54Ni54 B 160.0/173.4 G 38.3/56.3 spread 0.10
+Ni54Rh54 B 235.4/241.9 G 108.8/125.7 spread 0.03
+Ir54Ni54 B 288.1/297.9 G 138.0/162.0 spread 0.03
+Co54Ni54 B 210.5/208.2 G 105.8/97.3 spread 0.00
+Cu54Pd54 B 156.2/147.4 G 49.4/45.4 spread 0.04

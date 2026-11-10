@@ -1,0 +1,23 @@
+# graft's local graph cache, regenerable, not committed (run `graft build`).
+/graft/
+.venv/
+__pycache__/
+*.pyc
+
+# Agent workspace: only the audit records are published.
+.orchestra/*
+!.orchestra/audits/
+
+# Sealed holdouts stay private so future blind tests remain blind.
+data/sealed/
+
+# Raw Quantum ESPRESSO runs (pw.x inputs and outputs); results are in data/*.csv.
+data/dft_runs/
+
+# Reproducibility archives are rebuilt by scripts/build_repro.py.
+paper/*.zip
+
+# Personal notes of the author, not part of the published project.
+reports/
+research_notes/
+

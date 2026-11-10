@@ -1,0 +1,50 @@
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+Using model under Academic Software License (ASL) license, see https://github.com/gabor1/ASL 
+ To use this model you accept the terms of the license.
+Using Materials Project MACE for MACECalculator with C:\Users\can02\.cache\mace/maceomat0mediummodel
+Using float64 for MACECalculator, which is slower but more accurate. Recommended for geometry optimization.
+binary Ag Au
+binary Ag Co
+binary Ag Cu
+binary Ag Ir
+binary Ag Ni
+binary Ag Pd
+binary Ag Pt
+binary Ag Rh
+binary Au Co
+binary Au Cu
+binary Au Ir
+binary Au Ni
+binary Au Pd
+binary Au Pt
+binary Au Rh
+binary Co Cu
+binary Co Ir
+binary Co Ni
+binary Co Pd
+binary Co Pt
+binary Co Rh
+binary Cu Ir
+binary Cu Ni
+binary Cu Pd
+binary Cu Pt
+binary Cu Rh
+binary Ir Ni
+binary Ir Pd
+binary Ir Pt
+binary Ir Rh
+binary Ni Pd
+binary Ni Pt
+binary Ni Rh
+binary Pd Pt
+binary Pd Rh
+binary Pt Rh
+targets done
+K44: raw 15.44, pair at V_ij 3.29, rule 2.62 GPa, gain 0.20, p 2.3e-02, refit k 0.86 -> fail
+Kp: raw 14.97, pair at V_ij 4.77, rule 2.03 GPa, gain 0.57, p 2.5e-04, refit k 1.08 -> pass
+secondary: median dlnK/dlnV of binaries with |K| > 10 GPa: {'K44': (14, -2.340508727571272), 'Kp': (12, -3.159947091704939)}
+n 94, sigma 2.03, power 1.000, false pass 0.000
+registered 67a358fc59
+targets done
+Kp: raw 14.38, pair at V_ij 4.22, rule 1.89 GPa, gain 0.55, p 2.5e-04, refit k 1.08, rule better in 75/94 -> pass
+K44 (not gated): raw 14.86, pair at V_ij 3.01, rule 2.64 GPa, gain 0.12, p 7.5e-02, refit k 0.69, rule better in 57/94 -> fail

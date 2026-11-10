@@ -1,0 +1,42 @@
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+Using model under Academic Software License (ASL) license, see https://github.com/gabor1/ASL 
+ To use this model you accept the terms of the license.
+Using Materials Project MACE for MACECalculator with C:\Users\can02\.cache\mace/maceomat0mediummodel
+Using float64 for MACECalculator, which is slower but more accurate. Recommended for geometry optimization.
+binary Ag Au
+binary Ag Co
+binary Ag Cu
+binary Ag Ir
+binary Ag Ni
+binary Ag Pd
+binary Ag Pt
+binary Ag Rh
+binary Au Co
+binary Au Cu
+binary Au Ir
+binary Au Ni
+binary Au Pd
+binary Au Pt
+binary Au Rh
+binary Co Cu
+binary Co Ir
+binary Co Ni
+binary Co Pd
+binary Co Pt
+binary Co Rh
+binary Cu Ir
+binary Cu Ni
+binary Cu Pd
+binary Cu Pt
+binary Cu Rh
+binary Ir Ni
+binary Ir Pd
+binary Ir Pt
+binary Ir Rh
+binary Ni Pd
+binary Ni Pt
+binary Ni Rh
+binary Pd Pt
+binary Pd Rh
+binary Pt Rh
+n 113, power 0.450, false pass 0.000

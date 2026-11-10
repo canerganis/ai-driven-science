@@ -1,0 +1,50 @@
+C:\Users\can02\Projects\AI driven Science\.venv\Lib\site-packages\e3nn\o3\_wigner.py:10: UserWarning: Environment variable TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD detected, since the`weights_only` argument was not explicitly passed to `torch.load`, forcing weights_only=False.
+  _Jd, _W3j_flat, _W3j_indices = torch.load(os.path.join(os.path.dirname(__file__), 'constants.pt'))
+C:\Users\can02\Projects\AI driven Science\.venv\Lib\site-packages\mace\calculators\mace.py:274: UserWarning: Environment variable TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD detected, since the`weights_only` argument was not explicitly passed to `torch.load`, forcing weights_only=False.
+  torch.load(f=model_path, map_location=device)
+cuequivariance or cuequivariance_torch is not available. Cuequivariance acceleration will be disabled.
+Using medium MPA-0 model as default MACE-MP model, to use previous (before 3.10) default model please specify 'medium' as model argument
+Using Materials Project MACE for MACECalculator with C:\Users\can02\.cache\mace/macempa0mediummodel
+Using float64 for MACECalculator, which is slower but more accurate. Recommended for geometry optimization.
+n 1200, power 1.000, false pass (k 1.15) 0.000
+registered 88b9465108
+binary Ag Au
+binary Ag Co
+binary Ag Cu
+binary Ag Ir
+binary Ag Ni
+binary Ag Pd
+binary Ag Pt
+binary Ag Rh
+binary Au Co
+binary Au Cu
+binary Au Ir
+binary Au Ni
+binary Au Pd
+binary Au Pt
+binary Au Rh
+binary Co Cu
+binary Co Ir
+binary Co Ni
+binary Co Pd
+binary Co Pt
+binary Co Rh
+binary Cu Ir
+binary Cu Ni
+binary Cu Pd
+binary Cu Pt
+binary Cu Rh
+binary Ir Ni
+binary Ir Pd
+binary Ir Pt
+binary Ir Rh
+binary Ni Pd
+binary Ni Pt
+binary Ni Rh
+binary Pd Pt
+binary Pd Rh
+binary Pt Rh
+equiv targets done
+k 1.138, 90% CI [1.098, 1.182], 95% CI [1.091, 1.189] -> FAIL; 95% CI excludes 1
+  Co-free: k 1.137
+  Co: k 1.139
