@@ -38,3 +38,8 @@ Python environment and the reproducibility zip archives, which `scripts/build_re
 ## Status
 
 Draft paper, not peer reviewed. Archive DOI pending.
+
+## License
+
+Code is released under the MIT License (see LICENSE).
+
